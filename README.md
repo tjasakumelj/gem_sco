@@ -1,0 +1,2 @@
+# gem_sco
+genome_scale_metabolic_reconstraction_Streptomyces_coelicolor
